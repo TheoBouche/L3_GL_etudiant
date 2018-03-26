@@ -14,10 +14,10 @@ Drunk_player est composé :
 - Boost
 
 ## Compilation
-   mkdir build
-   cd build
-   cmake..
-   make
+    mkdir build
+    cd build
+    cmake..
+    make
 
-##Utilisation
-./drunk_player_gui.out ../data/
+## Utilisation
+    ./drunk_player_gui.out ../data/
