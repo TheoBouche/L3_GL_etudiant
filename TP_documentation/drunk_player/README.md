@@ -12,3 +12,12 @@ Drunk_player est composé :
 ## Dépendances
 - OpenCV
 - Boost
+
+## Compilation
+   > mkdir build
+   > cd build
+   > cmake..
+   > make
+
+##Utilisation
+>./drunk_player_gui.out ../data/
