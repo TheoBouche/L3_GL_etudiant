@@ -21,3 +21,5 @@ Drunk_player est composé :
 
 ## Utilisation
     ./drunk_player_gui.out ../data/
+
+![](drunk_player_gui.png)
