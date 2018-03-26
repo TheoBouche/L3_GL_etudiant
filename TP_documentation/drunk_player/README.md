@@ -1,14 +1,14 @@
-# titre
-## section1
+# Drunk_player
+## Description
 
-- srggsr
+Drunk_player est un système de lecture de vidéos qui a trop bu. Il lit les vidéos contenues dans un dossier par morceaux, aléatoirements et parfois en transformant l'image.
 
-eqszgfzsrgethgq
+Drunk_player est composé :
 
-- zefgq
-  - dthyfjkuf
-  - fduhjfj
+- d'une bibiothèque (drunk_player) contenant le code de base
+- d'un programme graphique (drunk_player_gui) qui affiche le résultat à l'écran
+- d'un programme console (drunk_player_cli) qui sort le résultat dans un fichier
 
-dyjfjuksrgg
-
-## section2
+## Dépendances
+- OpenCV
+- Boost
